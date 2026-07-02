@@ -1,0 +1,1 @@
+[![Quality Gate Status](https://sonarqube.cicd.kits.ext.educentre.fr/api/project_badges/measure?project=louisan-cicd-tasklist-backend&metric=alert_status&token=sqb_5681b57185f5f8e32cfc6f7a244aa927227b6d0b)](https://sonarqube.cicd.kits.ext.educentre.fr/dashboard?id=louisan-cicd-tasklist-backend)
