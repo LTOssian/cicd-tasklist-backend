@@ -39,7 +39,7 @@ pipeline {
 
         stage('SonarQube analysis') {
             steps {
-                withSonarQubeEnv('sonarqube-server-1') {
+                withSonarQubeEnv('sonar-louisan') {
                     withCredentials([
                         string(credentialsId: 'louisan-sonar-token-backend', variable: 'SONAR_TOKEN')
                     ]) {
